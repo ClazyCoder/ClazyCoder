@@ -28,3 +28,5 @@ ML Engineer focused on MLOps, model serving, and automation.
 [![Naver](https://img.shields.io/badge/naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white)](mailto:xots899@naver.com)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xots899@gmail.com)
+
+[![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)](https://git.clazycoder.org/)
