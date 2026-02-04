@@ -1,16 +1,30 @@
-## Hi there 👋
+## YSG
 
-<!--
-**ClazyCoder/ClazyCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer focused on MLOps, model serving, and automation.
 
-Here are some ideas to get you started:
+### Skills 🔧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Python  
+- **ML/DL**: PyTorch, Computer Vision  
+- **Backend**: FastAPI  
+- **MLOps**: Docker
+
+### Github Stats 📊
+
+![Stats](./profile/stats.svg)
+
+### Top Languages 📊
+
+![Top Languages](./profile/top-langs.svg)
+
+### Featured Project 📖
+
+[![Pinned](./profile/stock-bot-stats.svg)](https://github.com/ClazyCoder/stock-bot)
+
+### Contact ☎️
+
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://sungil63.notion.site/Projects-1c0f57fc52e64924a1fae16434dda13e?pvs=73)
+
+[![Naver](https://img.shields.io/badge/naver-%2303C75A.svg?style=for-the-badge&logo=naver&logoColor=white)](mailto:xots899@naver.com)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xots899@gmail.com)
