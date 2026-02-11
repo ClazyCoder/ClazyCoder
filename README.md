@@ -30,3 +30,6 @@ ML Engineer focused on MLOps, model serving, and automation.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xots899@gmail.com)
 
 [![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)](https://git.clazycoder.org/)
+
+[![blog](https://img.shields.io/badge/blog-8ae346?style=for-the-badge)](https://blog.clazycoder.org)
+
